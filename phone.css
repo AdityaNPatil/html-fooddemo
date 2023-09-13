@@ -1,0 +1,47 @@
+
+    
+/* NAVIGATION */
+#navbar{
+    /* font-size: smaller; */
+
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    margin-bottom: 40px;
+}
+
+#logo{
+    margin:1px 5px;
+}
+
+
+/* HOME */
+
+
+
+/* SERVICES */
+#services-cont h1{
+    color: white;
+}
+#services{
+    /* margin-top:80px ; */
+    display: flex;
+    flex-direction: column;
+}
+#services .box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* CLIENT */
+#client{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+#client img{
+    height: 50px;
+}
+
+/* CONTACT US */
